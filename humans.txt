@@ -1,0 +1,15 @@
+/* ABOUT */
+
+  Owner/Designer/Developer: David Luu
+  Contact: luu.david.c [at] google.com
+  Site: https://davidluu.me/
+  Location: San Diego, California, USA
+
+
+/* SITE */
+
+  Last Update: 8/16/2017
+  Language: English
+  Standards: HTML5, CSS3
+  Components: Node.js, Express, React, GSAP
+  Tools: Terminal, Sublime Text, Sketch
